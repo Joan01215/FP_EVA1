@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="EVA1-1_HOLA_MUNDO"/>
+        <attribute name="authors" value="odrac"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-08-30 10:12:15 p. m."/>
+        <attribute name="created" value="b2RyYWM7UENFU0NSSVRPUklPSFA7MjAyNS0wOC0yOTsxMDo1Mzo0NiBhLiBtLjszMDU1"/>
+        <attribute name="edited" value="b2RyYWM7UENFU0NSSVRPUklPSFA7MjAyNS0wOC0zMDsxMDoxMjoxNSBwLiBtLjsyOzMxNjI="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="&quot;Hola Mundo&quot;" newline="True"/>
+            <output expression="&quot;Fundamentos de programacion&quot;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

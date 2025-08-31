@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="EVA1_3_DATOS"/>
+        <attribute name="authors" value="odrac"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-08-30 09:55:13 p. m."/>
+        <attribute name="created" value="b2RyYWM7UENFU0NSSVRPUklPSFA7MjAyNS0wOC0zMDswOTo1MToyNCBwLiBtLjszMDY0"/>
+        <attribute name="edited" value="b2RyYWM7UENFU0NSSVRPUklPSFA7MjAyNS0wOC0zMDswOTo1NToxMyBwLiBtLjsxOzMxNzQ="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="&quot;Nombre del estudiante:&quot;" newline="False"/>
+            <output expression="&quot;Joan Alonso&quot;" newline="True"/>
+            <output expression="&quot;Numero de control:&quot;" newline="False"/>
+            <output expression="&quot;25550488&quot;" newline="True"/>
+            <output expression="&quot;Edad:&quot;" newline="False"/>
+            <output expression="&quot;18&quot;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

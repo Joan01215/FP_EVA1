@@ -1,0 +1,15 @@
+
+package eva1_4_empleo;
+
+public class EVA1_4_EMPLEO {
+
+    public static void main(String[] args) {
+    System.out.print("Empleo: ");
+    System.out.println("Gerente de tienda OXXO");
+    System.out.print("Salario: ");
+    System.out.println("30,000");
+    System.out.print("Requiere ingles? ");
+    System.out.println("False");
+    }
+    
+}

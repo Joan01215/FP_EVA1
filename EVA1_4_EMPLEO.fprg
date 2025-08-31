@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="EVA1_4_EMPLEO"/>
+        <attribute name="authors" value="odrac"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-08-30 09:59:44 p. m."/>
+        <attribute name="created" value="b2RyYWM7UENFU0NSSVRPUklPSFA7MjAyNS0wOC0zMDswOTo1NToxOCBwLiBtLjszMDcx"/>
+        <attribute name="edited" value="b2RyYWM7UENFU0NSSVRPUklPSFA7MjAyNS0wOC0zMDswOTo1OTo0NCBwLiBtLjsxOzMxODI="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="&quot;Empleo: &quot;" newline="False"/>
+            <output expression="&quot;Gerente de tienda OXXO&quot;" newline="True"/>
+            <output expression="&quot;Salario: &quot;" newline="False"/>
+            <output expression="&quot;30,000&quot;" newline="True"/>
+            <output expression="&quot;Horas a la semana?: &quot;" newline="False"/>
+            <output expression="&quot;45&quot;" newline="True"/>
+            <output expression="&quot;Requiere ingles?: &quot;" newline="False"/>
+            <output expression="False" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

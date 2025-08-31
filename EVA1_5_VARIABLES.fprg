@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="EVA1_5_VARIABLES"/>
+        <attribute name="authors" value="odrac"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-08-30 10:11:25 p. m."/>
+        <attribute name="created" value="b2RyYWM7UENFU0NSSVRPUklPSFA7MjAyNS0wOC0zMDswOTo1OTo0OCBwLiBtLjszMDc4"/>
+        <attribute name="edited" value="b2RyYWM7UENFU0NSSVRPUklPSFA7MjAyNS0wOC0zMDsxMDoxMToyNSBwLiBtLjsxOzMxNjE="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="nombre" type="String" array="False" size=""/>
+            <assign variable="nombre" expression="&quot;Joan Haziel Alonso Armendariz&quot;"/>
+            <declare name="edad" type="Integer" array="False" size=""/>
+            <assign variable="edad" expression="18"/>
+            <declare name="salario" type="Real" array="False" size=""/>
+            <assign variable="salario" expression="1.1"/>
+            <output expression="nombre" newline="True"/>
+            <output expression="edad" newline="True"/>
+            <output expression="salario" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

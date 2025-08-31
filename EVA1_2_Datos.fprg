@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="EVA1_2_Datos"/>
+        <attribute name="authors" value="odrac"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-08-30 09:51:13 p. m."/>
+        <attribute name="created" value="b2RyYWM7UENFU0NSSVRPUklPSFA7MjAyNS0wOC0zMDswOTo0NTo1NyBwLiBtLjszMDcz"/>
+        <attribute name="edited" value="b2RyYWM7UENFU0NSSVRPUklPSFA7MjAyNS0wOC0zMDswOTo1MToxMyBwLiBtLjsxOzMxNzA="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="&quot;JOAN ALONSO&quot;" newline="True"/>
+            <output expression="1000" newline="True"/>
+            <output expression="500.3" newline="True"/>
+            <output expression="&quot;TRUE&quot;" newline="True"/>
+            <output expression="&quot;C&quot;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
