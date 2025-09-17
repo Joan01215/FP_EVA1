@@ -1,0 +1,19 @@
+package eva1_13_if;
+
+import java.util.Scanner;
+
+public class EVA1_13_IF {
+
+    public static void main(String[] args) {
+        int Venta;//VENTA DE ALCOHOL
+        Scanner captu= new Scanner (System.in);
+        System.out.println("Introduca su año de nacimiento");
+        Venta = captu.nextInt();
+        if(Venta >=2007){
+           System.out.println("SI SE LE VENDE");
+        }else{
+            System.out.println("NO SE LE VENDE");
+        }
+    }
+    
+}

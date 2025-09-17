@@ -1,0 +1,14 @@
+package eva1_7_area_triangulo;
+
+public class EVA1_7_AREA_TRIANGULO {
+    
+    public static void main(String[] args) {
+        double base, altura, area;
+        base = 5 ;
+        altura = 10;
+        area = (base*altura)/2;
+        System.out.println("El area de un triangulo con base de 5 y altura de 10=");
+        System.out.println(area);
+    }
+    
+}
